@@ -1,7 +1,7 @@
 # 2022_사물인터넷기초_프로젝트
 
 ### 1. 휴지 아낌이 시스템
-    ![Untitled](https://user-images.githubusercontent.com/77529901/173665525-18404b25-c3fc-45dc-8bb3-e2d94ff45abf.png)
+![Untitled](https://user-images.githubusercontent.com/77529901/173665525-18404b25-c3fc-45dc-8bb3-e2d94ff45abf.png)
 
     
 ### 2. 휴지 잔량 측정 시스템
