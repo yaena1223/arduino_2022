@@ -5,7 +5,7 @@
     
     
 2. 휴지 잔량 측정 시스템
-  ![Untitled 1](https://user-images.githubusercontent.com/77529901/173664173-c993b43a-2a4a-4be2-8c42-541cd9d5e37c.png)
+    ![Untitled 1](https://user-images.githubusercontent.com/77529901/173664173-c993b43a-2a4a-4be2-8c42-541cd9d5e37c.png)
 
 시연영상
 
